@@ -1,0 +1,24 @@
+/* *{
+  background-color: #323232;
+} */
+.container {
+  margin: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  height: 100vh;
+}
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 80vh;
+}
+.dashboard h2{
+  color: white;
+  font-weight: 700;
+}
+
+.chart-container {
+  width: 80%;
+  height: 100%;
+}
